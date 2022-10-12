@@ -3,7 +3,7 @@ title:  ""
 metadate: "hide"
 categories: [  ]
 image: "/assets/images/.jpg"
-visit: ""
+visit: "https://en.wikipedia.org/wiki/"
 ---
 
 _-- _
