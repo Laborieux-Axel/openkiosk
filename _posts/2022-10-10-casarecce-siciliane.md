@@ -1,7 +1,7 @@
 ---
 title:  "Casarecce Siciliane Carbonara"
 metadate: "hide"
-categories: [ Fleisch, Pasta, Italian ]
+categories: [ Meat, Pasta, Italian ]
 image: "/assets/images/1010f.jpg"
 visit: ""
 ---

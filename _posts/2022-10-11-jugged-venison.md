@@ -1,7 +1,7 @@
 ---
 title:  "Jugged Venison Hunter's Style"
 metadate: "hide"
-categories: [ Fleisch ]
+categories: [ Meat ]
 image: "/assets/images/1110f.jpg"
 visit: ""
 ---
