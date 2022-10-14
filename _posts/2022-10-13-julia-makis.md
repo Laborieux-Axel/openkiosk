@@ -8,6 +8,6 @@ visit: "https://en.wikipedia.org/wiki/Sushi"
 
 _-- _
 
-**Rating:** ⭐️⭐️⭐️  
+**Rating:** ⭐️⭐️⭐️⭐️⭐️  
   
 **Comment:**
