@@ -1,7 +1,7 @@
 ---
 title:  "Breaded Camembert Medallons"
 metadate: "hide"
-categories: [ Veggie ]
+categories: [ Veggie, Potatoes ]
 image: "/assets/images/1410v.jpg"
 visit: "https://en.wikipedia.org/wiki/Camembert"
 ---

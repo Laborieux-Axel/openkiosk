@@ -1,7 +1,7 @@
 ---
 title:  "Oriental Falafel"
 metadate: "hide"
-categories: [ Veggie ]
+categories: [ Veggie, Semolina ]
 image: "/assets/images/1010v.jpg"
 visit: ""
 ---

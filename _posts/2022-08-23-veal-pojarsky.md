@@ -1,7 +1,7 @@
 ---
 title:  "Veal Pojarsky"
 metadate: "hide"
-categories: [ Meat, Veal ]
+categories: [ Meat, Veal, Potatoes ]
 image: "/assets/images/2308f.jpg"
 visit: "https://en.wikipedia.org/wiki/Pojarsky"
 ---

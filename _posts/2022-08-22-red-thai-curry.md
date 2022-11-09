@@ -1,7 +1,7 @@
 ---
 title:  "Red Thai Curry With Turkey"
 metadate: "hide"
-categories: [ Meat, Turkey, Thai, Curry ]
+categories: [ Meat, Turkey, Thai, Curry, Rice ]
 image: "/assets/images/2208f.jpg"
 visit: "https://en.wikipedia.org/wiki/Curry"
 ---

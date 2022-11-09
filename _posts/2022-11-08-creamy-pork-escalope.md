@@ -1,7 +1,7 @@
 ---
 title:  "Creamy Pork Escalope"
 metadate: "hide"
-categories: [ Meat ]
+categories: [ Meat, Noodles ]
 image: "/assets/images/0811f.jpg"
 visit: "https://en.wikipedia.org/wiki/"
 ---

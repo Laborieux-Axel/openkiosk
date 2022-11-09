@@ -1,7 +1,7 @@
 ---
 title:  "Fried Chicken on a Skewer"
 metadate: "hide"
-categories: [ Meat, Chicken ]
+categories: [ Meat, Chicken, Corn ]
 image: "/assets/images/2408f.jpg"
 visit: "https://en.wikipedia.org/wiki/Skewer"
 ---

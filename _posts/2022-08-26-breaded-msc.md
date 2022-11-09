@@ -1,7 +1,7 @@
 ---
 title:  "Breaded Msc Common Dab Fillet"
 metadate: "hide"
-categories: [ Fish ]
+categories: [ Fish, Potatoes ]
 image: "/assets/images/2608f.jpg"
 visit: "https://en.wikipedia.org/wiki/Dab"
 ---

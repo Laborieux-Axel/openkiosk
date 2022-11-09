@@ -1,7 +1,7 @@
 ---
 title:  "Creole Jambalaya"
 metadate: "hide"
-categories: [ Veggie ]
+categories: [ Veggie, Corn ]
 image: "/assets/images/2308v.jpg"
 visit: "https://en.wikipedia.org/wiki/Creole"
 ---

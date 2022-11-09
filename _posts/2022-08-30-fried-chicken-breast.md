@@ -1,7 +1,7 @@
 ---
 title:  "Fried Chicken Breast Al Limone"
 metadate: "hide"
-categories: [ Meat, Chicken ]
+categories: [ Meat, Chicken, Rice ]
 image: "/assets/images/3008f.jpg"
 visit: ""
 ---

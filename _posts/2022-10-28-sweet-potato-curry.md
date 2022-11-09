@@ -1,7 +1,7 @@
 ---
 title:  "Sweet Potato Curry"
 metadate: "hide"
-categories: [ Veggie ]
+categories: [ Veggie, Potatoes ]
 image: "/assets/images/2810v.jpg"
 visit: "https://en.wikipedia.org/wiki/curry"
 ---

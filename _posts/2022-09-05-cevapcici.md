@@ -1,7 +1,7 @@
 ---
 title:  "Cevapcici"
 metadate: "hide"
-categories: [ Veggie, Vegan ]
+categories: [ Veggie, Vegan, Rice ]
 image: "/assets/images/0509v.jpg"
 visit: "https://en.wikipedia.org/wiki/Cevapcici"
 ---

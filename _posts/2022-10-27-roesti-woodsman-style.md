@@ -1,7 +1,7 @@
 ---
 title:  "Roesti Woodsman Style"
 metadate: "hide"
-categories: [ Veggie ]
+categories: [ Veggie, Potatoes ]
 image: "/assets/images/2710v.jpg"
 visit: "https://en.wikipedia.org/wiki/Roesti"
 ---

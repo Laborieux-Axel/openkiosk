@@ -1,7 +1,7 @@
 ---
 title:  "Fried Fish Bearnaise"
 metadate: "hide"
-categories: [ Fish ]
+categories: [ Fish, Potatoes ]
 image: "/assets/images/2110f.jpg"
 visit: "https://en.wikipedia.org/wiki/Bearnaise"
 ---

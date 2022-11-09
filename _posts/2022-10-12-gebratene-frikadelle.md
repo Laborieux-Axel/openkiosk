@@ -1,7 +1,7 @@
 ---
 title:  "Gebratene Frikadelle"
 metadate: "hide"
-categories: [ Meat ]
+categories: [ Meat, Potatoes ]
 image: "/assets/images/1210f.jpg"
 visit: "https://en.wikipedia.org/wiki/Frikadelle"
 ---

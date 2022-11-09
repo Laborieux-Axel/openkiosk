@@ -1,7 +1,7 @@
 ---
 title:  "Veal Goulash Vienna Style"
 metadate: "hide"
-categories: [ Meat ]
+categories: [ Meat, Spaetzli ]
 image: "/assets/images/1310f.jpg"
 visit: "https://en.wikipedia.org/wiki/Goulash"
 ---

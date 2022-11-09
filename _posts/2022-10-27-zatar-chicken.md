@@ -1,7 +1,7 @@
 ---
 title:  "Zatar Chicken"
 metadate: "hide"
-categories: [ Meat, Chicken ]
+categories: [ Meat, Chicken, Rice ]
 image: "/assets/images/2710f.jpg"
 visit: "https://en.wikipedia.org/wiki/Zatar"
 ---

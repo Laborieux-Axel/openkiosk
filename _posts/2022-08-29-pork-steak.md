@@ -1,7 +1,7 @@
 ---
 title:  "Pork Steak Knossos"
 metadate: "hide"
-categories: [ Meat, Pork ]
+categories: [ Meat, Pork, Potatoes ]
 image: "/assets/images/2908f.jpg"
 visit: "https://en.wikipedia.org/wiki/Knossos"
 ---

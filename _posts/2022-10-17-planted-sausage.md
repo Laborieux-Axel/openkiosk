@@ -1,7 +1,7 @@
 ---
 title:  "Planted Sausage"
 metadate: "hide"
-categories: [ Veggie ]
+categories: [ Veggie, Corn ]
 image: "/assets/images/1710v.jpg"
 visit: "https://en.wikipedia.org/wiki/Planted_Sausage"
 ---

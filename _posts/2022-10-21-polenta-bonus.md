@@ -1,7 +1,7 @@
 ---
 title:  "Leftover Polenta"
 metadate: "hide"
-categories: [ Veggie ]
+categories: [ Veggie, Corn ]
 image: "/assets/images/2110v2.jpg"
 visit: "https://en.wikipedia.org/wiki/Polenta"
 ---

@@ -1,7 +1,7 @@
 ---
 title:  "Crunchy Asia Delight"
 metadate: "hide"
-categories: [ Veggie ]
+categories: [ Veggie, Lentils ]
 image: "/assets/images/2610v.jpg"
 visit: "https://en.wikipedia.org/wiki/asia"
 ---

@@ -1,7 +1,7 @@
 ---
 title:  "Jugged Venison Hunter's Style"
 metadate: "hide"
-categories: [ Meat ]
+categories: [ Meat, Spaetzli ]
 image: "/assets/images/1110f.jpg"
 visit: ""
 ---

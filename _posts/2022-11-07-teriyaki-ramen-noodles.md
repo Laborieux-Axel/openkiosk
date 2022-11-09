@@ -1,7 +1,7 @@
 ---
 title:  "Teriyaki Ramen Noodles"
 metadate: "hide"
-categories: [ Veggie ]
+categories: [ Veggie, Noodles ]
 image: "/assets/images/0711v.jpg"
 visit: "https://en.wikipedia.org/wiki/teriyaki"
 ---

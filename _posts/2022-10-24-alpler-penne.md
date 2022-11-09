@@ -1,7 +1,7 @@
 ---
 title:  "Alpler Penne"
 metadate: "hide"
-categories: [ Veggie ]
+categories: [ Veggie, Pasta ]
 image: "/assets/images/2410v.jpg"
 visit: "https://en.wikipedia.org/wiki/Alpler_penne"
 ---

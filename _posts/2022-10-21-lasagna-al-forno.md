@@ -1,7 +1,7 @@
 ---
 title:  "Lasagna al Forno"
 metadate: "hide"
-categories: [ Veggie, Italian ]
+categories: [ Veggie, Italian, Pasta ]
 image: "/assets/images/2110v.jpg"
 visit: "https://en.wikipedia.org/wiki/lasagna"
 ---

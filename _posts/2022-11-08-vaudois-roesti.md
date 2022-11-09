@@ -1,7 +1,7 @@
 ---
 title:  "Vaudois Roesti"
 metadate: "hide"
-categories: [ Veggie ]
+categories: [ Veggie, Potatoes ]
 image: "/assets/images/0811v.jpg"
 visit: "https://en.wikipedia.org/wiki/roesti"
 ---

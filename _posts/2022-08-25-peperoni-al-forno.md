@@ -1,7 +1,7 @@
 ---
 title:  "Peperoni Al Forno"
 metadate: "hide"
-categories: [ Veggie, Pasta, Italian ]
+categories: [ Veggie, Quinoa, Italian ]
 image: "/assets/images/2508v.jpg"
 visit: "https://en.wikipedia.org/wiki/Peperoni"
 ---

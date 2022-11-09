@@ -1,7 +1,7 @@
 ---
 title:  "Fawn Roast"
 metadate: "hide"
-categories: [ Meat ]
+categories: [ Meat, Rice ]
 image: "/assets/images/2610f.jpg"
 visit: "https://en.wikipedia.org/wiki/fawn"
 ---

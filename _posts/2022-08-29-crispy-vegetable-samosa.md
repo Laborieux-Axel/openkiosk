@@ -1,7 +1,7 @@
 ---
 title:  "Crispy Vegetable Samosa"
 metadate: "hide"
-categories: [ Veggie ]
+categories: [ Veggie, Rice ]
 image: "/assets/images/2908v.jpg"
 visit: "https://en.wikipedia.org/wiki/Samosa"
 ---

@@ -1,7 +1,7 @@
 ---
 title:  "Spaghetti Bolognese"
 metadate: "hide"
-categories: [ Meat, Beef, Italian ]
+categories: [ Meat, Beef, Italian, Pasta ]
 image: "/assets/images/0509f.jpg"
 visit: "https://en.wikipedia.org/wiki/Bolognese"
 ---

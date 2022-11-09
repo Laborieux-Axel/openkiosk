@@ -1,7 +1,7 @@
 ---
 title:  "Vegetable Paella"
 metadate: "hide"
-categories: [ Veggie ]
+categories: [ Veggie, Rice ]
 image: "/assets/images/1210v.jpg"
 visit: "https://en.wikipedia.org/wiki/Paella"
 ---

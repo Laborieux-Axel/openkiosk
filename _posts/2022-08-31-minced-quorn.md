@@ -1,7 +1,7 @@
 ---
 title:  "Minced Quorn"
 metadate: "hide"
-categories: [ Veggie ]
+categories: [ Veggie, Potatoes ]
 image: "/assets/images/3108v.jpg"
 visit: "https://en.wikipedia.org/wiki/Quorn"
 ---

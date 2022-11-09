@@ -1,7 +1,7 @@
 ---
 title:  "Indian Onions Pakora"
 metadate: "hide"
-categories: [ Veggie, Indian ]
+categories: [ Veggie, Indian, Lentils ]
 image: "/assets/images/2408v.jpg"
 visit: "https://en.wikipedia.org/wiki/Pakora"
 ---
