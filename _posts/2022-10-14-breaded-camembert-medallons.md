@@ -8,6 +8,6 @@ visit: "https://en.wikipedia.org/wiki/Camembert"
 
 _-- potatoes with vegetables and beetroot leafs_
 
-**Rating:** ⭐️⭐️⭐️,5  
+**Rating:** ⭐️⭐️⭐️⭐️  
   
 **Comment:**
