@@ -2,7 +2,7 @@
 title:  "Mexican Fajita"
 metadate: "hide"
 categories: [ Veggie, Mexican ]
-image: "/assets/images/.jpg"
+image: "/assets/images/0911v.jpg"
 visit: "https://en.wikipedia.org/wiki/fajita"
 ---
 
