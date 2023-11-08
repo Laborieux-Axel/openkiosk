@@ -2,7 +2,7 @@
 title:  "Plantbased Nasi Goreng"
 metadate: "hide"
 categories: [ Veggie, Rice ]
-image: "/assets/images/0212v.jpg"
+image: "/assets/images/0212v.JPG"
 visit: "https://en.wikipedia.org/wiki/Nasi_goreng"
 ---
 
